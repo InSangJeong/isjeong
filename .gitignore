@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+generic/generic/bin/Debug/generic.vshost.exe
+*.exe
+generic/generic/bin/Debug/generic.pdb
+*.manifest
+generic/generic/obj/x86/Debug/generic.csproj.FileListAbsolute.txt
+*.cache
+generic/generic/obj/x86/Debug/generic.pdb
