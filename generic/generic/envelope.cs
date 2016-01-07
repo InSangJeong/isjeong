@@ -14,6 +14,7 @@ namespace generic
         public T EndX;
         public T EndY;
 
+    
         Calculator<T> calcul = new Calculator<T>();
 
         public envelope()
